@@ -1,7 +1,7 @@
 # 3d-keyboard
  **Transform training**
 
-![avada_travel](https://github.com/user-attachments/assets/e729b009-f9b7-4842-89f0-57c8fa6c4049)
+![Document - Google Chrome 10_28_2024 2_26_59 AM](https://github.com/user-attachments/assets/76c5a833-e6fd-461b-8639-fa9e92c4ff3b)
 
 
 - [Demo Project](https://ermiarzv.github.io/3d-keyboard/)
